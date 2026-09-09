@@ -1,0 +1,7 @@
+{
+  "name": "Issue audit E2E",
+  "avatar": "https://avatars.githubusercontent.com/u/180811437?v=4",
+  "description": "E2E $(echo_inert) ${{ secrets.PAT }}",
+  "url": "https://github.com/afoim/af-friends-issue-e2e-20260909",
+  "backlink": "https://github.com/afoim/af-friends-issue-e2e-20260909"
+}
